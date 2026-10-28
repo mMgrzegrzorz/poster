@@ -14,5 +14,3 @@ echo
 echo "   Congratulations! You've been hacked"
 echo
 tput sgr0 2>/dev/null
-EOF
-"""
