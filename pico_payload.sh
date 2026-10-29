@@ -33,8 +33,8 @@ tput setaf 2 2>/dev/null || echo -e "\e[32m"
 
 echo "          CONGRATULATIONS!"
 echo "         You've been hacked!"
-echo
-echo
+echo             
+echo 
 
 # Reset kolorów powłoki do standardowych
 tput sgr0 2>/dev/null || echo -e "\e[0m"
