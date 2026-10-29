@@ -31,8 +31,8 @@ ART
 # Ustawienie koloru zielonego dla podtytułu
 tput setaf 2 2>/dev/null || echo -e "\e[32m"
 
-echo "                     CONGRATULATIONS!"
-echo "                    You've been hacked!"
+echo "          CONGRATULATIONS!"
+echo "         You've been hacked!"
 echo
 echo
 
